@@ -1,6 +1,6 @@
 {
   "name": "wallhavenpaper",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Set your desktop wallpaper to images from Wallhaven",
   "main": "index.js",
   "scripts": {
