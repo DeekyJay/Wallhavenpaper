@@ -25,7 +25,8 @@
     "image"
   ],
   "dependencies": {
-    "cheerio": "^0.20.0"
+    "cheerio": "^0.20.0",
+    "wallpaper": "^2.1.0"
   },
   "devDependencies": {}
 }
